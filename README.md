@@ -1,12 +1,12 @@
 # Acrylic Enclosure for the Gigatron TTL microcomputer
 
-## introduction
+## Introduction
 
 The [Gigatron TTL microcomputer](https://gigatron.io/) by Marcel van Kervinck and Walter Belgers is a minimalistic retro computer without a microprocessor chip.
 
 The original Gigatron TTL microcomputer was sold as a kit with a wooden enclosure, but that original enclosure is no longer available anymore.
 
-[<img src="https://gigatron.io/wp-content/uploads/2018/06/cropped-kistje-productie-1000.jpg" width="650"/>](https://gigatron.io/wp-content/uploads/2018/06/cropped-kistje-productie-1000.jpg)
+[<img src="images/gigatron-ttl-original-enclosure.png" width="650"/>](images/gigatron-ttl-original-enclosure.png)
 
 This acrylic enclosure has been designed to replace the original wooden enclosure while keeping its overall look and feel.
 
